@@ -72,3 +72,32 @@ In order to be a bit more compact I have removed the accreditations from the
 docstrings each functions. This does not in any way mean that I wish to take
 credit from the individual contributions. I have moved these accreditations
 to the credits file.
+
+
+# Other
+
+## Functional Neuroimaging Analysis in Python
+Course Overview and Introduction
+
+https://carpentries-incubator.github.io/SDC-BIDS-fMRI/aio/index.html
+
+Slides: https://docs.google.com/presentation/d/1er6dQcERL-Yeb5-7A29tJnmqgHNaLpTLXM3e-SmpjDg/edit#slide=id.g484812a0c7_6_1
+
+## fMRIPrep
+
+https://fmriprep.org/en/stable
+
+fMRIPrep: a robust preprocessing pipeline for functional MRI - https://www.nature.com/articles/s41592-018-0235-4
+
+
+## NeuroImaging PREProcessing toolS - https://github.com/nipreps
+
+- fmriprep - https://github.com/nipreps/fmriprep
+- smriprep - https://github.com/nipreps/smriprep + https://zenodo.org/record/8253909
+- dmriprep - https://github.com/nipreps/dmriprep
+- mriqc - https://github.com/nipreps/mriqc
+
+
+## DIPY - https://dipy.org + https://github.com/dipy
+
+DIPY is the paragon 3D/4D+ imaging library in Python. Contains generic methods for spatial normalization, signal processing, machine learning, statistical analysis and visualization of medical images. Additionally, it contains specialized methods for computational anatomy including diffusion, perfusion and structural imaging.
